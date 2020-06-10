@@ -1,1 +1,14 @@
-
+{
+  "S001": {
+    "firstName": "Tony",
+    "lastName": "Stark"
+  },
+  "S002": {
+    "firstName": "Peter",
+    "lastName": "Parker"
+  },
+  "S003": {
+    "firstName": "Bruce",
+    "lastName": "Wayne"
+  }
+}
